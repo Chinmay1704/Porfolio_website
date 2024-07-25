@@ -1,0 +1,85 @@
+.contact {
+  color: var(--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 40px 0;
+}
+
+.contact .contact-heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.contact .contact-heading span {
+  color: var(--brand-2);
+  text-decoration: underline;
+  padding-bottom: 20px;
+}
+
+.contact .contact-line {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.contact .contact-line span {
+  color: var(--brand-1);
+  border: 4px solid var(--brand-2);
+  padding: 20px;
+  border-radius: 25px 0;
+  margin: 30px 20px;
+  width: fit-content;
+}
+
+.contact .contact-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px 2vw;
+  gap: 30px;
+}
+
+.contact .contact-form .form-item input,
+.contact .contact-form .form-item textarea {
+  color: var(--white);
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  outline: 0;
+  border-bottom: 2px solid var(--brand-1);
+}
+
+.contact .contact-form .form-item input::placeholder,
+.contact .contact-form .form-item textarea::placeholder {
+  color: var(--white);
+  text-align: center;
+}
+
+.contact-form .row {
+  width: 95%;
+}
+
+.contact .contact-form .form-item .btn {
+  justify-self: left;
+  background: var(--brand-1);
+  color: black;
+  font-size: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 10px 15px;
+  transition: all 0.3s ease;
+}
+
+.contact .contact-form .form-item i {
+  color: var(--bg-2);
+}
+
+.contact .contact-form .form-item .btn:hover {
+  transform: scale(1.2);
+}

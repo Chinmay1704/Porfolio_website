@@ -1,0 +1,28 @@
+.footer{
+    color: var(--white);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 25px;
+    padding: 10px;
+    background: var(--bg-2);
+}
+
+.footer .icons{
+    display: flex;
+    gap: 30px;
+}
+
+.footer .icons a i{
+    background: var(--brand-2);
+    padding: 10px;
+    border-radius: 50%;
+    color: var(--bg-2);
+}
+
+.footer .name{
+    color: var(--brand-1);
+    text-decoration: underline;
+}
+

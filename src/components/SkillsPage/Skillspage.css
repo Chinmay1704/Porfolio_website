@@ -1,0 +1,108 @@
+.skills {
+  color: var(--white);
+  padding: 60px 40px;
+  background: url("/src/assets/skills_bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text {
+  padding-bottom: 20px;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  position: relative;
+}
+
+.skills-container .skill-heading span {
+  color: var(--brand-1);
+  text-decoration: underline;
+  padding-bottom: 20px;
+}
+
+.skills-container .domains {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 20px;
+  padding: 40px 10px;
+}
+
+.skills-container .domains .dom-1 {
+  flex: 0 0 25%;
+  width: fit-content;
+  background-color: var(--brand-2);
+  padding: 30px;
+  color: var(--bg-1);
+  border-left: 10px solid var(--brand-1);
+}
+
+.skills-container .domains .dom-2 {
+  flex: 0 0 25%;
+  width: fit-content;
+  background-color: var(--brand-2);
+  padding: 30px 35px;
+  color: var(--bg-1);
+  border-left: 10px solid var(--brand-1);
+}
+
+.skills-container .domains .icon i {
+  height: 40px;
+  width: 35px;
+  font-size: 25px;
+  color: var(--bg-1);
+}
+
+.skills-container .techs {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px 70px;
+  gap: 30px;
+}
+
+.skills-container .techs span {
+  color: var(--white);
+  cursor: pointer;
+  padding: 40px 20px;
+}
+
+.skills-container .techs .html {
+  background: var(--html);
+  border-radius: 100%;
+  padding: 25px;
+}
+
+.skills-container .techs .css {
+  background: var(--css);
+  border-radius: 100%;
+  padding: 25px;
+}
+
+.skills-container .techs .js {
+  background: var(--javascript);
+  border-radius: 100%;
+  padding: 25px;
+}
+
+.skills-container .techs .react {
+  background: var(--react);
+  border-radius: 100%;
+  padding: 25px;
+}
+
+.skills-container .techs .python {
+  background: var(--python);
+  border-radius: 100%;
+  padding: 25px;
+}
+
+.skills-container .techs .excel {
+  background: var(--excel);
+  border-radius: 100%;
+  padding: 25px;
+}

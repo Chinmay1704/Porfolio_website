@@ -1,0 +1,49 @@
+[
+    {
+        "title":"Weather App using ReactJs",
+        "description": "Displays real-time weather using API integration.",
+        "image": "https://s3-alpha.figma.com/hub/file/3863763275/43bb9a44-3863-4ff2-ad24-a2de0a50d129-cover.png",
+        "tech": ["HTML", "CSS", "JS", "React JS", "API"],
+        "Github_Link": "https://github.com/Chinmay1704/Weather_App_React"
+    },
+
+    {
+        "title":"Shoppers E-store",
+        "description": "A minimalist React eCommerce site with 3 tabs showcasing products, cart functionality, and order confirmation.",
+        "image": "../src/assets/ecommerce.png",
+        "tech": ["HTML", "CSS", "JS", "React JS", "API"],
+        "Github_Link": "https://github.com/Chinmay1704/Shoppers_E-commerce_React"
+    },
+
+    {
+        "title":"ApnaMakaan Website",
+        "description": "A minimalist real estate website crafted with HTML, CSS, and Bootstrap, offering seamless property browsing and elegant design.",
+        "image": "https://mir-s3-cdn-cf.behance.net/projects/404/c163ce192722933.Y3JvcCwzMDY4LDI0MDAsNjgsMA.png",
+        "tech": ["HTML", "CSS", "Bootstrap"],
+        "Github_Link": "https://github.com/Chinmay1704/ApnaMakkaan_website"
+    },
+
+    {
+        "title":"StopWatch Webapp",
+        "description": "Create tasks effortlessly with this simple HTML, CSS, JS and Bootstrap to-do list website, offering intuitive design and easy task management.",
+        "image": "https://img.freepik.com/premium-photo/stopwatch-icon-set-stopwatches-various-uses-timer-time-management-timekeeping_760214-4226.jpg",
+        "tech": ["HTML", "CSS", "Bootstrap", "JS"],
+        "Github_Link": "https://chins-stopwatch-webapp.netlify.app/"
+    },
+
+    {
+        "title":"To-do list website",
+        "description": "Create tasks effortlessly with this simple HTML, CSS, JS and Bootstrap to-do list website, offering intuitive design and easy task management.",
+        "image": "https://w7.pngwing.com/pngs/670/265/png-transparent-checkmark-done-exam-list-pencil-todo-xomo-basics-icon-thumbnail.png",
+        "tech": ["HTML", "CSS", "Bootstrap", "JS"],
+        "Github_Link": "https://chinstaskmanager-app.netlify.app/"
+    },
+
+    {
+        "title":"Cafe Webites",
+        "description": "Experience the charm of our cafe website, beautifully crafted with HTML, CSS, and JS, offering delightful menus and a cozy ambiance.",
+        "image": "https://i0.wp.com/themes.svn.wordpress.org/classic-coffee-shop/2.8/screenshot.png",
+        "tech": ["HTML", "CSS", "JS"],
+        "Github_Link": "https://github.com/Chinmay1704/Cafe-Website"
+    }
+]

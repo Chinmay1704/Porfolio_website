@@ -1,0 +1,125 @@
+/* Colors */
+:root {
+    --bg-1: #292f36;
+    --bg-2: #1a1e23;
+    --brand-1: #12f7d6;
+    --brand-2: #98faec;
+    --grey: #43454d;
+    --white: white;
+    --html: #e54f26;
+    --css: #0c73b8;
+    --javascript: #e7a020;
+    --react: #28a9e0;
+    --python: #225765;
+  }
+  
+  /* Typography */
+  
+  /* Ubuntu */
+  .BG-Text-U{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 117px;
+    line-height: 134px;
+    font-weight: 400;
+  }
+  
+  .H1-U{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 64px;
+    line-height: 72px;
+    font-weight: 400;
+  }
+  
+  .H2-U{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 32px;
+    line-height: 36px;
+    font-weight: 400;
+  }
+  
+  .Bottom-U{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+  }
+  
+  .Article-U{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 32px;
+  }
+  
+  .Para-U{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 18px;
+  }
+  
+  .Label-U-M{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  
+  .Label-U-L{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  
+  /* IBM Plex Mono */
+  
+  .Number-M{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 62px;
+  }
+  
+  .H2-M{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+  }
+  
+  .Logo-M{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+  }
+  
+  .Menu-M{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  
+  .Media-M{
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+  }
+  
+  .Para-M{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  
+  .Code-M{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: var(--brand-1);
+  }
