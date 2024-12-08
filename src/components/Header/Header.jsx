@@ -44,35 +44,35 @@ function Header() {
                 </li>
 
                 <li className="Media-M">
-                  <a
-                    href="https://instagram.com/chinmaykhanapurkar/"
+                  <Link
+                    to="https://www.instagram.com/simplychinmay/"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <i className="fa-brands fa-instagram"></i>{" "}
                     <span>Instagram</span>
-                  </a>
+                  </Link>
                 </li>
 
                 <li className="Media-M">
-                  <a
-                    href="https://www.linkedin.com/in/chinmay-khanapurkar/"
+                  <Link
+                    to="https://www.linkedin.com/in/chinmay-khanapurkar/"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <i className="fa-brands fa-linkedin-in"></i>{" "}
                     <span>LinkedIn</span>
-                  </a>
+                  </Link>
                 </li>
 
                 <li className="Media-M">
-                  <a
-                    href="https://github.com/Chinmay1704/Full_Satck_Development"
+                  <Link
+                    to="https://github.com/Chinmay1704/Full_Satck_Development"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <i className="fa-brands fa-github"></i> <span>Github</span>
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>

@@ -10,7 +10,7 @@
     {
         "title":"Shoppers E-store",
         "description": "A minimalist React eCommerce site with 3 tabs showcasing products, cart functionality, and order confirmation.",
-        "image": "../src/assets/ecommerce.png",
+        "image": "https://img.lovepik.com/free_png/32/44/37/858PICk58PICbeCdIb9kKE58PICbb_PIC2018.png_300.png",
         "tech": ["HTML", "CSS", "JS", "React JS", "API"],
         "Github_Link": "https://github.com/Chinmay1704/Shoppers_E-commerce_React"
     },

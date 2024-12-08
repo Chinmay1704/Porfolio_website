@@ -106,3 +106,9 @@
   border-radius: 100%;
   padding: 25px;
 }
+
+
+.techs div:hover{
+  transform: scale(1.2);
+  transition: all 0.3s ease-in-out;
+}
